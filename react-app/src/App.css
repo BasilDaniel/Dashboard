@@ -1,0 +1,58 @@
+.bg-color-green {
+  background-color: #91cf4b;
+}
+.bg-color-red {
+  background-color: #fd8181;
+}
+.text-color-red {
+  color: #fd8181;
+}
+.bg-color-blue {
+  background-color: #00a4ff;
+}
+.text-color-blue {
+  color: #00a4ff;
+}
+.bg-color-yellow {
+  background-color: #ffcf3b;
+}
+.bg-color-purple {
+  background-color: #7554ff;
+}
+.bg-color-grey {
+  background-color: #bfbaba;
+}
+.text-color-grey {
+  color: #bfbaba;
+}
+.bg-color-light-grey {
+  background-color: #c3c3c3;
+}
+.text-color-light-grey {
+  color: #c3c3c3;
+}
+.bg-color-dark-grey {
+  background-color: #c3c3c3;
+}
+.text-color-dark-grey {
+  color: #6c757d;
+}
+.text-big-thin {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+.text-big-fat {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.text-small-fat {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+.text-small-thin {
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+.span-padding-left {
+  padding-left: 10px;
+}

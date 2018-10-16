@@ -1,0 +1,54 @@
+.info-block-container {
+  padding-top: 40px;
+}
+.info-block-column-padding-left {
+  padding-left: 25px;
+}
+/* .info-block-span-padding-left {
+  padding-left: 10px;
+} */
+.info-block-icon-circule {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+}
+.info-block-icon-marker-background {
+  position: relative;
+  width: 14px;
+  height: 14px;
+  top: 0px;
+  left: 34px;
+  border-radius: 7px;
+  background-color: white;
+}
+.info-block-icon-marker {
+  z-index: 1;
+  position: relative;
+  width: 10px;
+  height: 10px;
+  top: 2px;
+  left: 2px;
+  border-radius: 5px;
+}
+.info-block-icon-icon {
+  width: 26px;
+  margin: 0px auto;
+}
+.material-icons-adjust {
+  font-size: 26px;
+  margin: 0px auto;
+  color: white;
+}
+.info-block-badge {
+  width: 38px;
+  height: 18px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-left: 10px;
+  line-height: 12px;
+  text-align: center;
+}
+.info-block-badge-text {
+  font-size: 12px;
+  color: white;
+}

@@ -1,0 +1,12 @@
+.inline-block {
+  margin: 0px 20px;
+  height: 100%;
+}
+.response-icon {
+  position: relative;
+  top: 18px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  border-radius: 25px;
+}
